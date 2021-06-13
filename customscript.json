@@ -1,4 +1,4 @@
 {
-  "fileuris": []
+  "fileuris": ["https://raw.githubusercontent.com/iamvikasdevops/az-customscript-prac/main/install_web.sh"],
    "commandToExecute": "./install_web.sh"
 }
